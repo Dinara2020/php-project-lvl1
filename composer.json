@@ -6,5 +6,8 @@
             "email": "evo-com@yandex.ru"
         }
     ],
-    "require": {}
+    "require": {},
+	"bin": [
+		"bin/brain-games"
+	]
 }
